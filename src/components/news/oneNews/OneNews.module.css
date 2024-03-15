@@ -1,0 +1,28 @@
+.newsDiv {
+    width: 100px;
+    height: 100px;
+    background-image: linear-gradient(to right, #fc1ba6, #4094f6);
+    -moz-background-image: -moz-linear-gradient(left, #fc1ba6, #4094f6);
+    -webkit-background-image: -webkit-linear-gradient(left, #fc1ba6, #4094f6);
+    border-radius: 30px;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+} 
+
+.border {
+    width: 97px;
+    height: 97px;
+    background-color: white;
+    border-radius: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.img {
+  width: 92px;
+  height: 92px;
+  background-color: #fc1ba6;
+  border-radius: 27px;
+}
