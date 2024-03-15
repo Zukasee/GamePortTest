@@ -13,7 +13,7 @@
 .border {
     width: 97px;
     height: 97px;
-    background-color: var(--tg-theme-text-color);
+    background-color: var(--tg-theme-bg-color);
     border-radius: 29px;
     display: flex;
     justify-content: center;
