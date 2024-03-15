@@ -26,3 +26,9 @@
   background-color: #fc1ba6;
   border-radius: 27px;
 }
+
+img {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 27px;
+}
